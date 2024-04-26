@@ -1,3 +1,6 @@
 # Bitcamp 2024 Hackathon
 
-Finiance AI advisor
+Finance AI advisor
+
+# Devpost
+https://devpost.com/software/upsanddowns
